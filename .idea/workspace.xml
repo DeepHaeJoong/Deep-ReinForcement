@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c16c2d-280e-48fa-ae33-3381cff2ef92" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/deep_reinforcement_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deep_reinforcement_learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter2. Bandit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter2. Bandit-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter3. Contextual-Policy Bandit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter3. Contextual-Policy Bandit-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter4. 마르코프 결정 과정-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Chapter4. 마르코프 결정 과정-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2. Bandit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2. Bandit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3. Contextual-Policy Bandit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3. Contextual-Policy Bandit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4. 마르코프 결정 과정.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4. 마르코프 결정 과정.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +26,7 @@
     <SUITE FILE_PATH="coverage/deep_reinforcement_learning$Test.coverage" NAME="Test Coverage Results" MODIFIED="1555048903422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.py">
@@ -54,6 +65,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,10 +95,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+=======
+    <option name="x" value="531" />
+    <option name="width" value="1154" />
+    <option name="height" value="1039" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,8 +112,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="ProjectPane" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deep_reinforcement_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_reinforcement_learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_reinforcement_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_reinforcement_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_reinforcement_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,12 +198,20 @@
       <option name="presentableId" value="Default" />
       <updated>1555046377144</updated>
       <workItem from="1555046380364" duration="19665000" />
+<<<<<<< HEAD
       <workItem from="1555424346825" duration="71000" />
+=======
+      <workItem from="1557290093528" duration="90000" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="19736000" />
+=======
+    <option name="totallyTimeSpent" value="19755000" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,9 +223,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
+=======
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15167785" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -187,10 +245,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43058568" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
       <window_info anchor="right" id="R Graphics" />
       <window_info anchor="right" id="R Packages" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43120566" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -227,32 +290,59 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../AppData/Local/conda/conda/envs/venv3/Lib/site-packages/gym/envs/classic_control/rendering.py" />
     <entry file="file://$PROJECT_DIR$/Book/Simple_Policy" />
     <entry file="file://$PROJECT_DIR$/Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/conda/conda/envs/venv3/Lib/site-packages/gym/envs/classic_control/rendering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Book/Simple_Policy" />
     <entry file="file://$PROJECT_DIR$/Book/Simple_Policy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="22">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Book/Simple_Policy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
     <entry file="file://$PROJECT_DIR$/DQN I (NIPS 2013).py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-646">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+=======
+        <state relative-caret-position="307">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+>>>>>>> 177a42300c4228098498eb2aba24b6cc617888d6
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
